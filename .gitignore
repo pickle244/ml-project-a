@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.whl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+*.env
+*.yml
+*.yaml
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.log
+*.db
+
+# Misc
+*.swp
+*~
+.idea/
+*.bak
+
+# Ignore all hidden files except .gitignore and .git
+.*
+!.gitignore
+!.git/
