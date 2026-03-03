@@ -36,6 +36,7 @@ ENV/
 *.dat
 *.log
 *.db
+*.txt
 
 # Misc
 *.swp
